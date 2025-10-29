@@ -39,6 +39,7 @@ func main() {
 	// hoTen, _ := reader.ReadString('\n')
 
 	// fmt.Println("Họ tên bạn vừa nhập là:", hoTen)
+	randomUser()
 	const MONAN string = "com tam"
 	fmt.Println(MONAN)
 }
